@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Functional Programming/Papers/Raising ML to the Power of System F.md",
+            "file": "Functional Programming/Papers/A Short Introduction to Systems F and F.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Functional Programming/Papers/Raising ML to the Power of System F.md",
+                "file": "Functional Programming/Papers/A Short Introduction to Systems F and F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,15 @@
   },
   "active": "cfc0e6d7c16b3c1b",
   "lastOpenFiles": [
-    "Programming/Functional Programming/Papers/Raising ML to the Power of System F.md",
-    "Programming/Functional Programming/Papers/HMF - Simple Type Inference for First-Class Polymorphism.md",
-    "Programming/Functional Programming/Papers/Types for Modules.md",
-    "Programming/Functional Programming/Papers/A Short Introduction to Systems F and F.md",
-    "Programming/Functional Programming/OCaml/Let operators.md",
-    "Programming/Functional Programming/Concepts/Monads.md",
-    "Programming/Tools/Curl.md"
+    "Functional Programming/Papers/A Short Introduction to Systems F and F.md",
+    "Functional Programming/Concepts/Monads.md",
+    "Functional Programming/Books/Program = Proof.md",
+    "Programming Languages/OCaml/Let operators.md",
+    "Functional Programming/Papers/Applicative programming with effects.md",
+    "TIL - Today i learned.md",
+    "Tools/Curl.md",
+    "Functional Programming/Papers/Raising ML to the Power of System F.md",
+    "Functional Programming/Papers/HMF - Simple Type Inference for First-Class Polymorphism.md",
+    "Functional Programming/Papers/Types for Modules.md"
   ]
 }
