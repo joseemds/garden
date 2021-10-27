@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "e6935f12f447962d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfc0e6d7c16b3c1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Functional Programming/Papers/Raising ML to the Power of System F.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbd631c8e5316e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4db116f37eb1a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff45096623f8d4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f779194025f3903b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e69ca48362da5af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad0aeed46101173",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a6ef84147a59054",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Functional Programming/Papers/Raising ML to the Power of System F.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfc0e6d7c16b3c1b",
+  "lastOpenFiles": [
+    "Programming/Functional Programming/Papers/Raising ML to the Power of System F.md",
+    "Programming/Functional Programming/Papers/HMF - Simple Type Inference for First-Class Polymorphism.md",
+    "Programming/Functional Programming/Papers/Types for Modules.md",
+    "Programming/Functional Programming/Papers/A Short Introduction to Systems F and F.md",
+    "Programming/Functional Programming/OCaml/Let operators.md",
+    "Programming/Functional Programming/Concepts/Monads.md",
+    "Programming/Tools/Curl.md"
+  ]
+}
