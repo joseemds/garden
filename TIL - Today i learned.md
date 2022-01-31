@@ -1,4 +1,9 @@
 ## TIL - Today i learned
+
+### 2021-10-24:
+* How to use direnv with nix
+
+
 ### 2021-10-24:
 * How to use LWT
 
